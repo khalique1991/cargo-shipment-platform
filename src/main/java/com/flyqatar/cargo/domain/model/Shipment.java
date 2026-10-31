@@ -1,4 +1,4 @@
-package com.flyqatar.cargo_shipment_platform.domain.model;
+package com.flyqatar.cargo.domain.model;
 
 import java.math.BigDecimal;
 import java.time.Instant;

@@ -1,4 +1,4 @@
-package com.flyqatar.cargo_shipment_platform;
+package com.flyqatar.cargo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
